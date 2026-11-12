@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris — 9:16 Hypnotic Light & Lattice Simulation",
+  "description": "Vertical 9:16 visual ASMR simulation featuring breathing liquid-light concentric rings, crystalline mandala spark coalescence, and an emerald photon 3D filament lattice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
